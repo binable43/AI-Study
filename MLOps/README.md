@@ -10,7 +10,7 @@
 |주차|주제|공부기록|
 |:---:|--|:---:|
 |1주차|Fundamentals|[📚](https://github.com/binable43/Study-MLOps/blob/main/Week1/Week%201%20:%20Fundamentals.md)|
-|2주차|CNNs||
+|2주차|CNNs|[📚](https://github.com/binable43/Study-MLOps/blob/main/Week2/Week%202A%20:%20CNNs.md)|
 |3주차|RNNs||
 |4주차|Transformers||
 |5주차|ML Projects||
